@@ -1,6 +1,0 @@
-spring:
-  profiles:
-    active: develop
-
-app:
-  name: gimisangung
