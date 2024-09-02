@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+httpx
+pymysql
+
+requests
+openai
+langchain-community
+pymongo
+pymilvus
+tqdm
+python-dotenv
+numpy
